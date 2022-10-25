@@ -5,3 +5,4 @@ Simple JS Task List
 * Remove Tasks from List
 * Save Tasks in Local Storage
 * Remove All Tasks with one click
+* Filter Tasks by Name
